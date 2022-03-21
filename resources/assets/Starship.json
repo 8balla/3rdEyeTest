@@ -1,0 +1,430 @@
+{
+"data" : [
+
+  {
+    "name": "Y-wing",
+    "crew": 2,
+    "status": "operational",
+    "model": "BTL Y-wing",
+    "value": 134999,
+    "class": "assault starfighter",
+    "armaments": {
+      "title": "proton torpedoes",
+      "qty": "0"
+    }
+  },
+  {
+    "name": "Imperial shuttle",
+    "crew": 6,
+    "status": "operational",
+    "model": "Lambda-class T-4a shuttle",
+    "value": 240000,
+    "class": "Armed government transport",
+    "armaments": {
+      "title": "proton torpedoes",
+      "qty": "0"
+    }
+  },
+  {
+    "name": "CR90 corvette",
+    "crew": null,
+    "status": "operational",
+    "model": "CR90 corvette",
+    "value": 3500000,
+    "class": "corvette",
+    "armaments": {
+      "title": "proton torpedoes",
+      "qty": "0"
+    }
+  },
+  {
+    "name": "X-wing",
+    "crew": 1,
+    "status": "operational",
+    "model": "T-65 X-wing",
+    "value": 149999,
+    "class": "Starfighter",
+    "armaments": {
+      "title": "proton torpedoes",
+      "qty": "0"
+    }
+  },
+  {
+    "name": "Star Destroyer",
+    "crew": null,
+    "status": "operational",
+    "model": "Imperial I-class Star Destroyer",
+    "value": 150000000,
+    "class": "Star Destroyer",
+    "armaments": {
+      "title": "proton torpedoes",
+      "qty": "0"
+    }
+  },
+  {
+    "name": "TIE Advanced x1",
+    "crew": 1,
+    "status": "operational",
+    "model": "Twin Ion Engine Advanced x1",
+    "class": "Starfighter",
+    "armaments": {
+      "title": "proton torpedoes",
+      "qty": "0"
+    }
+  },
+  {
+    "name": "EF76 Nebulon-B escort frigate",
+    "crew": 854,
+    "status": "operational",
+    "model": "EF76 Nebulon-B escort frigate",
+    "value": 8500000,
+    "class": "Escort ship",
+    "armaments": {
+      "title": "proton torpedoes",
+      "qty": "0"
+    }
+  },
+  {
+    "name": "Millennium Falcon",
+    "crew": 4,
+    "status": "operational",
+    "model": "YT-1300 light freighter",
+    "value": 100000,
+    "class": "Light freighter",
+    "armaments": {
+      "title": "proton torpedoes",
+      "qty": "0"
+    }
+  },
+  {
+    "name": "Slave 1",
+    "crew": 1,
+    "status": "operational",
+    "model": "Firespray-31-class patrol and attack",
+    "class": "Patrol craft",
+    "armaments": {
+      "title": "proton torpedoes",
+      "qty": "0"
+    }
+  },
+  {
+    "name": "Calamari Cruiser",
+    "crew": 5400,
+    "status": "operational",
+    "model": "MC80 Liberty type Star Cruiser",
+    "value": 104000000,
+    "class": "Star Cruiser",
+    "armaments": {
+      "title": "proton torpedoes",
+      "qty": "0"
+    }
+  },
+  {
+    "name": "Executor",
+    "crew": null,
+    "status": "operational",
+    "model": "Executor-class star dreadnought",
+    "value": 1143350000,
+    "class": "Star dreadnought",
+    "armaments": {
+      "title": "proton torpedoes",
+      "qty": "0"
+    }
+  },
+  {
+    "name": "Rebel transport",
+    "crew": 6,
+    "status": "operational",
+    "model": "GR-75 medium transport",
+    "class": "Medium transport",
+    "createdAt": "2019-12-13T19:42:35.165Z",
+    "updatedAt": "2019-12-13T19:42:37.828Z",
+    "armaments": {
+      "title": "proton torpedoes",
+      "qty": "0"
+    }
+  },
+  {
+    "name": "Sentinel-class landing craft",
+    "maxAtmospheringSpeed": 1000,
+    "crew": 5,
+    "status": "operational",
+    "model": "Sentinel-class landing craft",
+    "value": 240000,
+    "class": "landing craft",
+    "armaments": {
+      "title": "proton torpedoes",
+      "qty": "0"
+    }
+  },
+  {
+    "name": "Death Star",
+    "crew": null,
+    "status": "operational",
+    "model": "DS-1 Orbital Battle Station",
+    "value": 1000000000000,
+    "class": "Deep Space Mobile Battlestation",
+    "armaments": {
+      "title": "proton torpedoes",
+      "qty": "0"
+    }
+  },
+  {
+    "name": "B-wing",
+    "crew": 1,
+    "status": "operational",
+    "model": "A/SF-01 B-wing starfighter",
+    "value": 220000,
+    "class": "Assault Starfighter",
+    "armaments": {
+      "title": "proton torpedoes",
+      "qty": "0"
+    }
+  },
+  {
+    "name": "A-wing",
+    "crew": 1,
+    "status": "operational",
+    "model": "RZ-1 A-wing Interceptor",
+    "value": 175000,
+    "class": "Starfighter",
+    "armaments": {
+      "title": "proton torpedoes",
+      "qty": "0"
+    }
+  },
+  {
+    "name": "AA-9 Coruscant freighter",
+    "crew": 300,
+    "status": "operational",
+    "model": "Botajef AA-9 Freighter-Liner",
+    "class": "freighter",
+    "armaments": {
+      "title": "proton torpedoes",
+      "qty": "0"
+    }
+  },
+  {
+    "name": "Droid control ship",
+    "crew": 175,
+    "status": "operational",
+    "model": "Lucrehulk-class Droid Control Ship",
+    "class": "Droid control ship",
+    "armaments": {
+      "title": "proton torpedoes",
+      "qty": "0"
+    }
+  },
+  {
+    "name": "Republic Cruiser",
+    "crew": 9,
+    "status": "operational",
+    "model": "Consular-class cruiser",
+    "class": "Space cruiser",
+    "armaments": {
+      "title": "proton torpedoes",
+      "qty": "0"
+    }
+  },
+  {
+    "name": "H-type Nubian yacht",
+    "crew": 4,
+    "status": "operational",
+    "model": "H-type Nubian yacht",
+    "class": "yacht",
+    "armaments": {
+      "title": "proton torpedoes",
+      "qty": "0"
+    }
+  },
+  {
+    "name": "Naboo Royal Starship",
+    "crew": 8,
+    "status": "operational",
+    "model": "J-type 327 Nubian royal starship",
+    "class": "yacht",
+    "armaments": {
+      "title": "proton torpedoes",
+      "qty": "0"
+    }
+  },
+  {
+    "name": "Scimitar",
+    "crew": 1,
+    "status": "operational",
+    "model": "Star Courier",
+    "value": 55000000,
+    "class": "Space Transport",
+    "armaments": {
+      "title": "proton torpedoes",
+      "qty": "0"
+    }
+  },
+  {
+    "name": "Naboo fighter",
+    "crew": 1,
+    "status": "operational",
+    "model": "N-1 starfighter",
+    "value": 200000,
+    "class": "Starfighter",
+    "armaments": {
+      "title": "proton torpedoes",
+      "qty": "0"
+    }
+  },
+  {
+    "name": "Republic attack cruiser",
+    "crew": 7400,
+    "status": "operational",
+    "model": "Senator-class Star Destroyer",
+    "value": 59000000,
+    "class": "star destroyer",
+    "armaments": {
+      "title": "proton torpedoes",
+      "qty": "0"
+    }
+  },
+  {
+    "name": "V-wing",
+    "crew": 1,
+    "status": "operational",
+    "model": "Alpha-3 Nimbus-class V-wing starfighter",
+    "value": 102500,
+    "class": "starfighter",
+    "armaments": {
+      "title": "proton torpedoes",
+      "qty": "0"
+    }
+  },
+  {
+    "name": "Trade Federation cruiser",
+    "crew": 600,
+    "status": "operational",
+    "model": "Providence-class carrier/destroyer",
+    "value": 125000000,
+    "class": "capital ship",
+    "armaments": {
+      "title": "proton torpedoes",
+      "qty": "0"
+    }
+  },
+  {
+    "name": "Jedi starfighter",
+    "crew": 1,
+    "status": "operational",
+    "model": "Delta-7 Aethersprite-class interceptor",
+    "value": 180000,
+    "class": "Starfighter",
+    "armaments": {
+      "title": "proton torpedoes",
+      "qty": "0"
+    }
+  },
+  {
+    "name": "Banking clan frigte",
+    "crew": 200,
+    "status": "operational",
+    "model": "Munificent-class star frigate",
+    "value": 57000000,
+    "class": "cruiser",
+    "armaments": {
+      "title": "proton torpedoes",
+      "qty": "0"
+    }
+  },
+  {
+    "name": "J-type diplomatic barge",
+    "crew": 5,
+    "status": "operational",
+    "model": "J-type diplomatic barge",
+    "value": 2000000,
+    "class": "Diplomatic barge",
+    "armaments": {
+      "title": "proton torpedoes",
+      "qty": "0"
+    }
+  },
+  {
+    "name": "Jedi Interceptor",
+    "crew": 1,
+    "status": "operational",
+    "model": "Eta-2 Actis-class light interceptor",
+    "value": 320000,
+    "class": "starfighter",
+    "armaments": {
+      "title": "proton torpedoes",
+      "qty": "0"
+    }
+  },
+  {
+    "name": "Naboo star skiff",
+    "crew": 3,
+    "status": "operational",
+    "model": "J-type star skiff",
+    "class": "yacht",
+    "armaments": {
+      "title": "proton torpedoes",
+      "qty": "0"
+    }
+  },
+  {
+    "name": "Theta-class T-2c shuttle",
+    "crew": 5,
+    "status": "operational",
+    "model": "Theta-class T-2c shuttle",
+    "value": 1000000,
+    "class": "transport",
+    "armaments": {
+      "title": "proton torpedoes",
+      "qty": "0"
+    }
+  },
+  {
+    "name": "arc-170",
+    "crew": 3,
+    "status": "operational",
+    "model": "Aggressive Reconnaissance-170 starfighte",
+    "value": 155000,
+    "class": "starfighter",
+    "armaments": {
+      "title": "proton torpedoes",
+      "qty": "0"
+    }
+  },
+  {
+    "name": "Republic Assault ship",
+    "crew": 700,
+    "status": "operational",
+    "model": "Acclamator I-class assault ship",
+    "class": "assault ship",
+    "armaments": {
+      "title": "proton torpedoes",
+      "qty": "0"
+    }
+  },
+  {
+    "name": "Solar Sailer",
+    "crew": 3,
+    "status": "operational",
+    "model": "Punworcca 116-class interstellar sloop",
+    "value": 35700,
+    "class": "yacht",
+    "armaments": {
+      "title": "proton torpedoes",
+      "qty": "0"
+    }
+  },
+  {
+    "name": "Belbullab-22 starfighter",
+    "crew": 1,
+    "model": "Belbullab-22 starfighter",
+    "value": 168000,
+    "class": "starfighter",
+    "status": "operational",
+    "armaments": {
+      "title": "proton torpedoes",
+      "qty": "0"
+    }
+  }
+]
+}
